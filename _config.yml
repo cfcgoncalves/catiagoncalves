@@ -1,22 +1,22 @@
 # Site
-repository: sproogen/jameswgrant
+repository: cfcgoncalves/catiagoncalves
 favicon: images/favicon.ico
 
 version: 2
 
 # Personal info
-name: James Grant
-title: Full Stack Web Developer
-email: james@jameswgrant.co.uk
+name: Cátia Gonçalves
+title: Data Scientist
+email: catiafcgoncalves@gmail.com
 
 # Social links
-twitter_username: sproogen
-github_username:  sproogen
+# twitter_username: sproogen
+github_username: cfcgoncalves
 # dribbble_username:
 # facebook_username:
 # flickr_username:
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+# instagram_username: jameswgrant
+linkedin_username: catiafgoncalves
 # pinterest_username:
 # youtube_username:
 
