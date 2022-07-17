@@ -10,13 +10,12 @@ title: Data Scientist
 email: catiafcgoncalves@gmail.com
 
 # Social links
-# twitter_username: sproogen
+# twitter_username: 
 github_username: cfcgoncalves
-scholar_username: cfcgoncalves
 # dribbble_username:
 # facebook_username:
 # flickr_username:
-# instagram_username: jameswgrant
+# instagram_username: 
 linkedin_username: catiafgoncalves
 # pinterest_username:
 # youtube_username:
@@ -25,7 +24,8 @@ linkedin_username: catiafgoncalves
 # about_title: About Me
 about_profile_image: images/jg2.jpg
 about_content: |
-  Hi, my name is Cátia Gonçalves Grant, I'm a data scientist with over 3 years experience.
+  **Hello!**
+  My name is Cátia Gonçalves, I'm a data scientist with over 3 years experience.
   I am currently working for NatWest as a Lead Frontend Software Engineer on their comercial banking platform, Bankline.
 
   I enjoy making clean and interactive UI that is quick and easy to use whilst also giving users an enjoyable experience.
@@ -191,18 +191,22 @@ content:
   - title: Education
     layout: list
     content:
-      - title: Bristol University
-        sub_title: BSc Computer Science
-        caption: 2010 - 2013
+      - title: Manchester University
+        sub_title: PhD in Molecular and Cell Biology
+        caption: 2017 - 2022
         description: |
-          During my degree at Bristol University I learnt lots of key skills such as team work and project management. Although
-          we mainly focused on software development and the principles of programming I use a lot of these skills to
-          my advantage in my day to day work.
-
-          While at Bristol Uni I spent a lot of my free time with the Kitesurfing society. I spent 3 years on the committee
-          as a secretary, trip rep and then media and promotions manager. During this time I took on roles from organising
-          transport and designing posters to organising a trip to Portugal for over 30 students.
-
+          TEXT.
+      - title: Porto University
+        sub_title: MSc in Molecular and Cell Biology
+        caption: 2014 - 2016
+        description: |
+          TEXT.
+      - title: Porto University
+        sub_title: BSc in Biology
+        caption: 2014 - 2016
+        description: |
+          TEXT.
+         
   - title: When I'm Not Programming
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -219,7 +223,7 @@ content:
       Bristol's indoor climbing centres or down 'The Rec' supporting Bath Rugby.
 
 # Footer
-footer_show_references: false
+footer_show_references: true
 
 # Build settings
 remote_theme: sproogen/resume-theme
