@@ -22,7 +22,7 @@ googlescholar_username: vZ0FkNcAAAAJ
 # about_title: About Me
 about_profile_image: images/jg2.jpg
 about_content: |
-  <p><b>Hello! My name is Cátia Gonçalves.</b></p>
+  <p><b>Hello!</b> My name is Cátia Gonçalves.</p>
   <p>I am a Data Scientist with a background in Biology who has over 3 years experience in <mark>Python</mark>, and<mark>R</mark>.</p>
   <p>I bring solid experience in research, critical thinking, technical communication and writing combined with discipline, attention to detail and project management.</p>
   
@@ -39,11 +39,9 @@ content:
             icon: fab fa-github
             url: https://github.com/sproogen/modern-resume-theme
         quote: >
-          A modern simple static resume template and theme. Powered by Jekyll and GitHub pages.
+          text.
         description: |
-          This is a <mark>Jekyll</mark> theme that I have recently created, in fact it is what this resume has been built with.
-          I decided I wanted to learn how to create a fully open source project and thought that this would be the perfect project to do this with.
-          It has allowed me to share something I have created in a way that will be helpful for lots of people while also learning from this myself.
+          TEXT.
       - layout: top-middle
         title: itsgoingto.be
         link: www.itsgoingto.be
@@ -52,50 +50,41 @@ content:
             icon: fab fa-github
             url: https://github.com/sproogen/itsgoingto.be
         quote: >
-          itsgoingto.be is a simple voting site where a user can ask a question or topic top put to a vote. This question
-          can then be shared with their friends/colleagues to vote on things like 'Where should we go for lunch?'.
+          TEXT.
         description: |
-          The API for this site has been build using <mark>Node.js</mark> while the front end is a <mark>React</mark>/<mark>Redux</mark> app.
-          I have used <mark>Docker</mark> to set up a development environment and <mark>Heroku</mark> to deploy and host the site. I have
-          a suite of unit and API tests for the backend and unit tests for the front end.
-
-          I have been using this project as a way to increase many of my skills and also learn new things, most recently sockets and Node.JS. I have particually
-          enjoyed managing my own project and designing my own architecture and implementing this to a high standard.
-
-          Feel free to check out the whole project on GitHub to get a feel for how I work [here](https://github.com/sproogen/itsgoingto.be).
+          TEXT.
 
   - title: Experience
     layout: list
     content:
       - layout: left
         border: weak
-        title: University of Manchester
-        sub_title: PhD Candidate
+        title: PhD Candidate
+        sub_title: University of Manchester 
         caption: September 2017 - June 2022
         description: |
           TEXT.
 
       - layout: left
         border: weak
-        title: University of Manchester
-        sub_title: Graduate Teaching Assistant
+        title: Graduate Teaching Assistant 
+        sub_title: University of Manchester
         caption: September 2018 - July 2019
         description: |
           TEXT.
 
       - layout: left
         border: weak
-        title: Instituto de Investigação e Inovação em Saúde 
-        sub_title: Pre-doctoral Researcher
-        link: www.simitive.com
+        title: Pre-doctoral Researcher
+        sub_title: Instituto de Investigação e Inovação em Saúde 
         caption: January 2017 - August 2017
         description: |
           TEXT.
 
       - layout: left
         border: weak
-        title: Instituto de Biologia Molecular e Celular
-        sub_title: MSc Student
+        title: MSc Candidate 
+        sub_title: Instituto de Biologia Molecular e Celular
         caption: September 2015 - October 2016
         description: |
           TEXT.
@@ -119,20 +108,10 @@ content:
         description: |
           TEXT.
          
-  - title: When I'm Not Programming
+  - title: Title
     layout: text
     content: | # this will include new lines to allow paragraphs
-      When I'm not sat at my desk I am very active and spend most of my time outdoors. I do a lot a sports such as
-      mountain biking, road cycling, kitesuring and horse riding as well as trying to make time for things like
-      rock climbing and playing some rugby. I currently have 2 horses and find this is a great way to get out of the house
-      and taking my mind of things while learing to showjump.
-
-      I'm interested in photography and videography as I like to be creative, this is mainly through sport but
-      I enjoy landscape and abstract photography too. I like to showcase my work on instagram if
-      you would like to take a look - [jameswgrant](https://www.instagram.com/jameswgrant/).
-
-      Finally during the rest of my free time you will either find me working on my bikes, rock climbing at one of
-      Bristol's indoor climbing centres or down 'The Rec' supporting Bath Rugby.
+      TEXT.
 
 # Footer
 footer_show_references: true
